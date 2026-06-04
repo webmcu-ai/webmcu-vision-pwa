@@ -6,7 +6,7 @@
 
 
 
-Active WebSerial Page at  [https://webmcu-ai.github.io/webmcu-vision-web/index.html](https://webmcu-ai.github.io/webmcu-vision-web/index.html)
+Active PWA WebSerial Page at  [https://webmcu-ai.github.io/webmcu-vision-pwa/index.html](https://webmcu-ai.github.io/webmcu-vision-pwa/index.html)
 
 Needs Seeedstudio [XIAO ML Kit](https://www.seeedstudio.com/The-XIAOML-Kit.html) or an XIAO-esp32s3-sense connected through webSerial
 
