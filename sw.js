@@ -1,5 +1,5 @@
 // sw.js
-const myCacheName = "local-gemma4-pwa";
+const myCacheName = "webmcu-vision-pwa";
 const myAssetsToCache = [
   "./",
   "./index.html",
