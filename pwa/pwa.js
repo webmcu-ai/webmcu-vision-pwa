@@ -6,7 +6,7 @@ let mySavedInstallPromptEvent = null;
 async function myRegisterServiceWorker() {
 if ("serviceWorker" in navigator) {
     try {
-      // Automatically extracts the repository name (e.g., "/local-gemma4-pwa/")
+      // Automatically extracts the repository name (e.g., "/webmcu-vision-pwa/")
       const myRepoScope = window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
       
       const myRegistration = await navigator.serviceWorker.register(`${myRepoScope}sw.js`, {
